@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/georgiossakellaris/Test-Public/_apis/build/status/gsake.pipelines-java?branchName=main)](https://dev.azure.com/georgiossakellaris/Test-Public/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
